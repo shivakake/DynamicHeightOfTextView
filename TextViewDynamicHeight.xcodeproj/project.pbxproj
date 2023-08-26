@@ -15,6 +15,8 @@
 		EA678C2A2A9A266600D88B6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA678C282A9A266600D88B6C /* LaunchScreen.storyboard */; };
 		EA678C352A9A266700D88B6C /* TextViewDynamicHeightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA678C342A9A266700D88B6C /* TextViewDynamicHeightTests.swift */; };
 		EA678C402A9A266700D88B6C /* TextViewDynamicHeightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA678C3F2A9A266700D88B6C /* TextViewDynamicHeightUITests.swift */; };
+		EA678C512A9A39DD00D88B6C /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA678C502A9A39DD00D88B6C /* SecondViewController.swift */; };
+		EA9381552A9A3F4800CA01BB /* ThardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9381542A9A3F4800CA01BB /* ThardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		EA678C3B2A9A266700D88B6C /* TextViewDynamicHeightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextViewDynamicHeightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA678C3F2A9A266700D88B6C /* TextViewDynamicHeightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewDynamicHeightUITests.swift; sourceTree = "<group>"; };
 		EA678C412A9A266700D88B6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA678C502A9A39DD00D88B6C /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		EA9381542A9A3F4800CA01BB /* ThardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				EA678C1D2A9A265C00D88B6C /* AppDelegate.swift */,
 				EA678C1F2A9A265C00D88B6C /* SceneDelegate.swift */,
 				EA678C212A9A265C00D88B6C /* ViewController.swift */,
+				EA9381542A9A3F4800CA01BB /* ThardViewController.swift */,
+				EA678C502A9A39DD00D88B6C /* SecondViewController.swift */,
 				EA678C232A9A265C00D88B6C /* Main.storyboard */,
 				EA678C262A9A266600D88B6C /* Assets.xcassets */,
 				EA678C282A9A266600D88B6C /* LaunchScreen.storyboard */,
@@ -258,6 +264,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA678C512A9A39DD00D88B6C /* SecondViewController.swift in Sources */,
+				EA9381552A9A3F4800CA01BB /* ThardViewController.swift in Sources */,
 				EA678C222A9A265C00D88B6C /* ViewController.swift in Sources */,
 				EA678C1E2A9A265C00D88B6C /* AppDelegate.swift in Sources */,
 				EA678C202A9A265C00D88B6C /* SceneDelegate.swift in Sources */,
